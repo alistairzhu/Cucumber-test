@@ -470,7 +470,7 @@ public class PredefinedStepDefinitions implements BaseTest {
 	}
 	
 	//Progress methods
-	
+
 	// wait for specific period of time
 	@Then("^I wait for (\\d+) sec$")
 	public void wait(String time) throws NumberFormatException, InterruptedException
