@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b041064f-0a46-4976-8c4e-0bbb17f1c113" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/info/seleniumcucumber/stepdefinitions/PredefinedStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/info/seleniumcucumber/stepdefinitions/PredefinedStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/my_first.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/my_first.feature" afterDir="false" />
-    </list>
+    <list default="true" id="b041064f-0a46-4976-8c4e-0bbb17f1c113" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +14,8 @@
       <file leaf-file-name="my_first.feature" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/features/my_first.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="260">
+              <caret line="13" column="64" lean-forward="true" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -28,8 +23,8 @@
       <file leaf-file-name="PredefinedStepDefinitions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/info/seleniumcucumber/stepdefinitions/PredefinedStepDefinitions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="474" column="22" lean-forward="true" selection-start-line="474" selection-start-column="12" selection-end-line="474" selection-end-column="22" />
+            <state relative-caret-position="104">
+              <caret line="471" column="22" selection-start-line="471" selection-start-column="22" selection-end-line="471" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -84,8 +79,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/info/seleniumcucumber/stepdefinitions/PredefinedStepDefinitions.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/my_first.feature" />
+        <option value="$PROJECT_DIR$/src/main/java/info/seleniumcucumber/stepdefinitions/PredefinedStepDefinitions.java" />
       </list>
     </option>
   </component>
@@ -335,7 +330,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="3" width="1934" height="1167" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -345,7 +339,7 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3294686" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3294686" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
@@ -409,15 +403,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/info/seleniumcucumber/stepdefinitions/PredefinedStepDefinitions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="474" column="22" lean-forward="true" selection-start-line="474" selection-start-column="12" selection-end-line="474" selection-end-column="22" />
+        <state relative-caret-position="104">
+          <caret line="471" column="22" selection-start-line="471" selection-start-column="22" selection-end-line="471" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/features/my_first.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="260">
+          <caret line="13" column="64" lean-forward="true" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
         </state>
       </provider>
     </entry>
